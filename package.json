@@ -1,0 +1,26 @@
+{
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "aurelia-bootstrapper": "github:aurelia/bootstrapper@^0.10.0"
+    },
+    "devDependencies": {
+      "babel": "npm:babel@^4.7.16",
+      "babel-runtime": "npm:babel-runtime@^4.7.16"
+    }
+  },
+  "devDependencies": {
+    "browser-sync": "^2.4.0",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.0",
+    "gulp-changed": "^1.2.1",
+    "gulp-plumber": "^1.0.0",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-yuidoc": "^0.1.2",
+    "object.assign": "^1.1.1",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.0.2",
+    "vinyl-paths": "^1.0.0"
+  }
+}
